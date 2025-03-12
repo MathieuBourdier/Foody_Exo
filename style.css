@@ -26,6 +26,8 @@ button {
 	overflow: hidden;
 }
 
+
+
 /* Header styles */
 .header {
 	display: flex;
@@ -478,6 +480,11 @@ span {
 	gap: 20px;
 }
 
+.fa-quote-left {
+	width: 30px;
+	height: 30px;
+}
+
 /* Responsive styles */
 @media (max-width: 991px) {
 	.hero-section {
@@ -540,3 +547,4 @@ span {
 		justify-content: center;
 	}
 }
+
